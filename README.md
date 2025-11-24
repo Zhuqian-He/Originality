@@ -48,7 +48,6 @@ The novelty calculation is divided into 10 sequential steps:
 
 10. **Paper-Level Novelty Metrics**: Aggregate above indicators to get final novelty scores.
 
-### Workflow Diagram
 ![Calculation Flowchart](https://github.com/Zhuqian-He/Originality/blob/main/Calculation_flowchart.png)  
 
 ## Dependencies
