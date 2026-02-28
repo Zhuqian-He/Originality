@@ -48,7 +48,7 @@ The novelty calculation is divided into 10 sequential steps:
 
 10. **Paper-Level Novelty Metrics**: Aggregate above indicators to get final novelty scores.
 
-![Calculation Flowchart](https://github.com/Zhuqian-He/Originality/blob/main/Calculation_flowchart.png)  
+![Measuring_Paper_Novelty](https://github.com/Zhuqian-He/Originality/blob/main/Measuring_Paper_Novelty.png)  
 
 ## Dependencies
 Install required packages first, then download spaCy/scispacy models.
