@@ -72,3 +72,4 @@ logging.info(f"Total process finished at: {time.strftime('%Y-%m-%d %H:%M:%S', ti
 logging.info(f"Total duration: {total_duration:.2f} seconds ({total_duration / 60:.1f} minutes)")
 logging.info("=" * 50)
 
+
