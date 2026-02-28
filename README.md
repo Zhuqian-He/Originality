@@ -59,12 +59,11 @@ Install required packages first, then download spaCy/scispacy models.
 - numpy
 - pandas
 - scispacy
+- scispacy model: en_core_sci_lg
 - spacy
+- spacy model: en_core_web_sm
 - spacy_fastlang
 - swifter
 - torch
 - tqdm
 - transformers
-- scispacy model: en_core_sci_lg
-- spacy model: en_core_web_sm
-
