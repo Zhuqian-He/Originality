@@ -16,7 +16,7 @@ To run the code, you need two types of data:
   - Download via [OpenAlex API](https://docs.openalex.org/api/get-started).
   - A sample dataset is provided in the `Data/` folder.
 
-### 2. Supplementary Data from Art et al. (2025)
+### 2. Supplementary Data from Arts et al. (2025)
 Preprocessed text data to support novelty calculation:
 - `papers_words.csv`
 - `papers_phrases.csv`
